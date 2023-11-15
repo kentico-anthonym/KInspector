@@ -1,6 +1,6 @@
 # Kentico Inspector
 
-## making changes to trigger actions
+## making changes to trigger actions pt. 2
 
 [![Join the chat at https://kentico-community.slack.com](https://img.shields.io/badge/join-slack-E6186D.svg)](https://kentico-community.slack.com)
 [![Build status](https://ci.appveyor.com/api/projects/status/n3nrch61bqxh497e/branch/master?svg=true)](https://ci.appveyor.com/project/kentico/kinspector-98xj0/branch/master)
